@@ -1,0 +1,6 @@
+[submodule "client-api"]
+	path = client-api
+	url = https://github.com/mat05/client-api.git
+[submodule "customer_api"]
+	path = customer_api
+	url = https://github.com/mat05/customer_api.git
